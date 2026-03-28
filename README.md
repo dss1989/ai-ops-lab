@@ -24,11 +24,17 @@ Each folder contains its own documentation. Browse by category, grab what you ne
 Structure
 
 ai-ops-lab/
+
 ├── prompts/          # Curated prompts & system instructions
+
 ├── agents/           # Multi-agent pipelines & configs
+
 ├── workflows/        # Automation scripts & processes
+
 ├── market-tools/     # Financial analysis utilities
+
 ├── templates/        # Reusable templates & boilerplates
+
 └── docs/             # Notes, references & learnings
 
 Contributing
